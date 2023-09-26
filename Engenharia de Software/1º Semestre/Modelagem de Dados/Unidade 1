@@ -1,0 +1,55 @@
+Orientação / Dicas
+
+https://view.genial.ly/61a13c4dcbd5940d7a611df0
+
+# UNIDADE 1  - Banco de Dados
+    1. Evalução Historia de Banco de Dados
+    2. O que é um Banco de Dados
+    3. O que é um Sistema Gerenciador de Banco de Dados
+    4. A importância dos Bancos de Dados
+    
+## OBEJTIVO 
+    -> Apresentar o histórico e a evolução dos bancos de dados, 
+    suas utilizações, modelos e os principais bancos de dados 
+    em uso no mercado
+
+/** Banco mais usados no mundo são
+*
+*   1 - Microsoft SQL Server
+*   2 - Oracle
+*   3 - IBM DB2 LUW
+*   4 - Mongo DB
+*
+**/
+
+SGBD -> É o nome dado aos softwares que gerenciam banco de dados, e 
+        não o tipo do banco de dados
+
+Hierárquico ->  Representada por uma árvore de cabeça para baixo
+                Relação de (1:M) -> 1 PAI pode ter varios FILHOS 
+                mas 1 FILHO pode ter somente 1 PAI
+/**
+*   O editor de registro do Windows (figura 1) é um exemplo de um banco 
+*   e dados hierárquico.
+*/
+
+### SGBG 
+    Vantagens 
+        Simplicidade Conceitual
+        Segurança de banco de dados
+        Independência dos dados
+        Integridade do banco de dados
+        Eficiência em lidar com uma grande base de dados
+        
+    Desvantagens
+        Implementação Complexa
+        Dificil gerenciamento
+        Falta de independência estrutural
+        Limitação de Implementação
+        Falta de normas e padrões bem definidos 
+
+/**
+*   Exemplos de SGBD Hierárquico incluem 
+*   s Information Management System (IMS)
+*   SYSTEM 2000
+**/
