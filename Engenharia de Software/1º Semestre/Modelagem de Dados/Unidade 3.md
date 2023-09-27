@@ -56,7 +56,7 @@
 ### Entidades, Entidades Fortes e Fracas
     ->  Uma Entidade é um objeto de interesse para o usuário final e refere-se realmente
     ao conjunto de entidades e não a uma única entidade. Em outras palavras, entidade
-    no DER corresponde a uma tabela.
+    no MER corresponde a uma tabela.
 
     ->  Uma entidade pode ser uma pessoa, lugar, evento, objeto ou um conceito que é
     relevante para um determinado sistema para a qual estamos modelando o projeto
