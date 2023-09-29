@@ -42,7 +42,7 @@
         multidisciplinares que envolvem a corporação como um todo.
 
 ### Sistemas Integrados de Gestão
-    -> Sistemas Integrados de Gestão são
+    -> Sistemas Integrados de Gestão são:
     conjuntos de sistemas que atendem a várias áreas administrativas e funcionais de uma
     empresa/organização, ao mesmo tempo em que integram essas áreas entre si. Os Sistemas
     Integrados de Gestão, também conhecidos pela sigla ERP (Enterprise Resource Planning) em
@@ -58,7 +58,7 @@
     principalmente segurança de internet, temos o foco das preocupações dos governos,
     organizações mistas e iniciativa privada em geral.
 
-    -> Conforme dados do site da universidade federal fluminense, http://www.sti.uff.br,
+    -> Conforme dados do site da universidade  federal fluminense, http://www.sti.uff.br,
     temos a seguinte situação:
         • Houve violação de dados em 112 universidades dos Estados Unidos no ano de
         2007, o que representou um incremento de 72,30% comparado a 2006.
